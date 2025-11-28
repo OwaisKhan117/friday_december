@@ -10,6 +10,7 @@ import { defineConfig, devices } from '@playwright/test';
 // dotenv.config({ path: path.resolve(__dirname, '.env') });
 
 /**
+ * real
  * @see https://playwright.dev/docs/test-configuration
  */
 export default defineConfig({
